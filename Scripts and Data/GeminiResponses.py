@@ -2,6 +2,7 @@ import requests
 import json  
 import google.generativeai as genai
 import os
+import time
 
 
 
@@ -124,12 +125,13 @@ def main():
 
     model = genai.GenerativeModel('gemini-pro', generation_config=generation_config, safety_settings=safety_settings)
     
-    data = load_json('inter_gender_bias.json') #the name of the raw json file we want to test
+    data = load_json('inter_gender_bias_subset_prompts_removed.json') #the name of the raw json file we want to test
     extracted_data = extract_fields(data)
     prompts_with_refs = generate_prompts(extracted_data)
     
     responses = []
     for prompt_ref in prompts_with_refs:
+        time.sleep(2)
         conversation = prompt_ref['prompt']
         chosen_option_number = -1
         chosen_option_label = "Unknown"
