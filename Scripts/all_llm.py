@@ -90,7 +90,7 @@ def main():
     random.seed(43)
     data = load_json('Intra_Gender_Removed.json')
     extracted_data = extract_fields(data)
-    sampled_data = random.sample(extracted_data, min(5, len(extracted_data)))
+    sampled_data = random.sample(extracted_data, min(100, len(extracted_data)))
     prompts_with_refs = generate_prompts(sampled_data)
 
     openai_responses, claude_responses, gemini_responses = [], [], []
