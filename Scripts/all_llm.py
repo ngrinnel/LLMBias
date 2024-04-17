@@ -80,15 +80,20 @@ def send_message_claude(prompt):
 # Gemini function
 def send_message_gemini(prompt, model):
     try:
+        time.sleep(2)  # Manage rate limits
         response = model.generate_content(prompt)
-        return response.text if response and response.text else None
+        if response and hasattr(response, 'text'):
+            return response.text
+        else:
+            print("No valid response or missing 'text' attribute in response:", response)
+            return None
     except Exception as e:
         print(f"Error with Gemini API: {e}")
         return None
 
 def main():
-    random.seed(43)
-    data = load_json('Intra_Gender_Removed.json')
+    random.seed(42)
+    data = load_json('TESTgender.json')
     extracted_data = extract_fields(data)
     sampled_data = random.sample(extracted_data, min(100, len(extracted_data)))
     prompts_with_refs = generate_prompts(sampled_data)
@@ -96,8 +101,19 @@ def main():
     openai_responses, claude_responses, gemini_responses = [], [], []
 
     # Gemini model configuration
-    generation_config = {"temperature": 0, "top_p": 1, "top_k": 1, "max_output_tokens": 400}
-    safety_settings = [{"category": "HARM_CATEGORY_DANGEROUS", "threshold": "BLOCK_NONE"}]
+    generation_config = {
+        "temperature": 0,
+        "top_p": 1,
+        "top_k": 1,
+        "max_output_tokens": 400
+    }
+    safety_settings = [
+        {"category": "HARM_CATEGORY_DANGEROUS", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+    ]
     gemini_model = genai.GenerativeModel('gemini-pro', generation_config=generation_config, safety_settings=safety_settings)
 
     for prompt_ref in prompts_with_refs:
