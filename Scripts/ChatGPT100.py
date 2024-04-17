@@ -60,7 +60,7 @@ def main():
     data = load_json('Intra_Gender_Removed.json')
     extracted_data = extract_fields(data)
     # Randomly select 100 items or the total number of items if fewer than 100
-    sampled_data = random.sample(extracted_data, min(5, len(extracted_data)))
+    sampled_data = random.sample(extracted_data, min(100, len(extracted_data)))
     prompts_with_refs = generate_prompts(sampled_data)
     
     responses = []
