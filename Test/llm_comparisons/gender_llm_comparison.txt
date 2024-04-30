@@ -1,0 +1,133 @@
+Comparing Ernie and ChatGPT:
+Individual results for 'inter' files:
+Total times they answered the same (inter): 74
+Stereotype label percentage (inter): 71.62%
+Anti-stereotype label percentage (inter): 27.03%
+Unrelated label percentage (inter): 1.35%
+Unknown label percentage (inter): 0.00%
+
+Individual results for 'intra' files:
+Total times they answered the same (intra): 82
+Stereotype label percentage (intra): 79.27%
+Anti-stereotype label percentage (intra): 20.73%
+Unrelated label percentage (intra): 0.00%
+Unknown label percentage (intra): 0.00%
+
+Comparing Ernie and Claude3:
+Individual results for 'inter' files:
+Total times they answered the same (inter): 79
+Stereotype label percentage (inter): 73.42%
+Anti-stereotype label percentage (inter): 24.05%
+Unrelated label percentage (inter): 2.53%
+Unknown label percentage (inter): 0.00%
+
+Individual results for 'intra' files:
+Total times they answered the same (intra): 85
+Stereotype label percentage (intra): 80.00%
+Anti-stereotype label percentage (intra): 20.00%
+Unrelated label percentage (intra): 0.00%
+Unknown label percentage (intra): 0.00%
+
+Comparing Ernie and Gemini:
+Individual results for 'inter' files:
+Total times they answered the same (inter): 77
+Stereotype label percentage (inter): 72.73%
+Anti-stereotype label percentage (inter): 24.68%
+Unrelated label percentage (inter): 2.60%
+Unknown label percentage (inter): 0.00%
+
+Individual results for 'intra' files:
+Total times they answered the same (intra): 83
+Stereotype label percentage (intra): 83.13%
+Anti-stereotype label percentage (intra): 16.87%
+Unrelated label percentage (intra): 0.00%
+Unknown label percentage (intra): 0.00%
+
+Comparing ChatGPT and Claude3:
+Individual results for 'inter' files:
+Total times they answered the same (inter): 77
+Stereotype label percentage (inter): 67.53%
+Anti-stereotype label percentage (inter): 31.17%
+Unrelated label percentage (inter): 1.30%
+Unknown label percentage (inter): 0.00%
+
+Individual results for 'intra' files:
+Total times they answered the same (intra): 85
+Stereotype label percentage (intra): 78.82%
+Anti-stereotype label percentage (intra): 21.18%
+Unrelated label percentage (intra): 0.00%
+Unknown label percentage (intra): 0.00%
+
+Comparing ChatGPT and Gemini:
+Individual results for 'inter' files:
+Total times they answered the same (inter): 79
+Stereotype label percentage (inter): 65.82%
+Anti-stereotype label percentage (inter): 31.65%
+Unrelated label percentage (inter): 2.53%
+Unknown label percentage (inter): 0.00%
+
+Individual results for 'intra' files:
+Total times they answered the same (intra): 79
+Stereotype label percentage (intra): 82.28%
+Anti-stereotype label percentage (intra): 17.72%
+Unrelated label percentage (intra): 0.00%
+Unknown label percentage (intra): 0.00%
+
+Comparing Claude3 and Gemini:
+Individual results for 'inter' files:
+Total times they answered the same (inter): 79
+Stereotype label percentage (inter): 69.62%
+Anti-stereotype label percentage (inter): 26.58%
+Unrelated label percentage (inter): 3.80%
+Unknown label percentage (inter): 0.00%
+
+Individual results for 'intra' files:
+Total times they answered the same (intra): 84
+Stereotype label percentage (intra): 82.14%
+Anti-stereotype label percentage (intra): 17.86%
+Unrelated label percentage (intra): 0.00%
+Unknown label percentage (intra): 0.00%
+
+Total results:
+Ernie vs ChatGPT:
+Total times they answered the same: 156 (78.00%)
+Stereotype label percentage: 75.64%
+Anti-stereotype label percentage: 23.72%
+Unrelated label percentage: 0.64%
+Unknown label percentage: 0.00%
+
+Ernie vs Claude3:
+Total times they answered the same: 164 (82.00%)
+Stereotype label percentage: 76.83%
+Anti-stereotype label percentage: 21.95%
+Unrelated label percentage: 1.22%
+Unknown label percentage: 0.00%
+
+Ernie vs Gemini:
+Total times they answered the same: 160 (80.00%)
+Stereotype label percentage: 78.12%
+Anti-stereotype label percentage: 20.62%
+Unrelated label percentage: 1.25%
+Unknown label percentage: 0.00%
+
+ChatGPT vs Claude3:
+Total times they answered the same: 162 (81.00%)
+Stereotype label percentage: 73.46%
+Anti-stereotype label percentage: 25.93%
+Unrelated label percentage: 0.62%
+Unknown label percentage: 0.00%
+
+ChatGPT vs Gemini:
+Total times they answered the same: 158 (79.00%)
+Stereotype label percentage: 74.05%
+Anti-stereotype label percentage: 24.68%
+Unrelated label percentage: 1.27%
+Unknown label percentage: 0.00%
+
+Claude3 vs Gemini:
+Total times they answered the same: 163 (81.50%)
+Stereotype label percentage: 76.07%
+Anti-stereotype label percentage: 22.09%
+Unrelated label percentage: 1.84%
+Unknown label percentage: 0.00%
+

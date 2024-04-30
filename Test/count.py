@@ -37,8 +37,8 @@ def main():
     base_folder = './'  # Adjust to the root path
     models = ["ChatGPT", "Claude3", "Gemini"]
     categories = ["gender", "profession", "religion", "race"]
-    file_type = "intra"
-    output_file = "us_llm_intra_Report.txt"  # Output file name
+    file_type = "inter"
+    output_file = "us_llm_inter_Report.txt"  # Output file name
     
     with open(output_file, "w") as file:
         for model in models:
