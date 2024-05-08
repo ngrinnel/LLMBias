@@ -1,0 +1,3 @@
+Stereotype: 66
+Anti-stereotype: 18
+Ambiguous: 6
