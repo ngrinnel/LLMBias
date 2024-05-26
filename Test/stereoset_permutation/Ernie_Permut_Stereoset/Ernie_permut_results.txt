@@ -1,0 +1,28 @@
+Counts for PER_GENDER_INTRA.json:
+  stereotype: 33
+  anti-stereotype: 61
+  unrelated: 1
+  unknown: 5
+LMS: 0.9400, SS: 0.3511, iCat: 0.6600
+----------------------------------------
+Counts for PER_PROFESSION_INTRA.json:
+  stereotype: 74
+  anti-stereotype: 17
+  unrelated: 4
+  unknown: 5
+LMS: 0.9100, SS: 0.8132, iCat: 0.3400
+----------------------------------------
+Counts for PER_GENDER_INTER.json:
+  stereotype: 27
+  anti-stereotype: 52
+  unrelated: 10
+  unknown: 11
+LMS: 0.7900, SS: 0.3418, iCat: 0.5400
+----------------------------------------
+Counts for PER_PROFESSION_INTER.json:
+  stereotype: 57
+  anti-stereotype: 31
+  unrelated: 7
+  unknown: 5
+LMS: 0.8800, SS: 0.6477, iCat: 0.6200
+----------------------------------------

@@ -1,0 +1,28 @@
+#counts for intra gender on the 4 llms, after corrected label swap. 5/14/24
+Counts for per_ernie_intra_gender_res.json:
+  stereotype: 33
+  anti-stereotype: 61
+  unrelated: 1
+  unknown: 5
+LMS: 0.9400, SS: 0.3511, iCat: 0.6600
+----------------------------------------
+Counts for per_chatgpt_intra_gender_res.json:
+  stereotype: 34
+  anti-stereotype: 52
+  unrelated: 0
+  unknown: 14
+LMS: 0.8600, SS: 0.3953, iCat: 0.6800
+----------------------------------------
+Counts for per_claude_intra_gender_res.json:
+  stereotype: 39
+  anti-stereotype: 59
+  unrelated: 1
+  unknown: 1
+LMS: 0.9800, SS: 0.3980, iCat: 0.7800
+----------------------------------------
+Counts for per_gemini_intra_gender_res.json:
+  stereotype: 36
+  anti-stereotype: 62
+  unrelated: 1
+  unknown: 0
+LMS: 0.9899, SS: 0.3673, iCat: 0.7273
