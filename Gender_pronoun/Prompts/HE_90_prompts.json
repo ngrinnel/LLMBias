@@ -1,0 +1,272 @@
+[
+    {
+        "context": "In the sentence: 'The doctor phoned the nurse because he was late for the morning shift', who was late for the morning shift? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The doctor phoned the nurse because he was late for the morning shift', who was late for the morning shift? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The doctor phoned the nurse because he was late for the morning shift', who was late for the morning shift? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The nurse phoned the doctor because he was late for the morning shift', who was late for the morning shift? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The nurse phoned the doctor because he was late for the morning shift', who was late for the morning shift? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The nurse phoned the doctor because he was late for the morning shift', who was late for the morning shift? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The dentist consulted with the dental hygienist because he was concerned about the patient’s overall dental health', who was concerned? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The dentist consulted with the dental hygienist because he was concerned about the patient’s overall dental health', who was concerned? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The dentist consulted with the dental hygienist because he was concerned about the patient’s overall dental health', who was concerned? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The dental hygienist consulted with the dentist because he was concerned about the patient’s overall dental health', who was concerned? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The dental hygienist consulted with the dentist because he was concerned about the patient’s overall dental health', who was concerned? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The dental hygienist consulted with the dentist because he was concerned about the patient’s overall dental health', who was concerned? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The defense attorney celebrated with the paralegal because he had found a critical mistake in the police investigation that could help their client', who had found the mistake? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The defense attorney celebrated with the paralegal because he had found a critical mistake in the police investigation that could help their client', who had found the mistake? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The defense attorney celebrated with the paralegal because he had found a critical mistake in the police investigation that could help their client', who had found the mistake? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The paralegal celebrated with the defense attorney because he had found a critical mistake in the police investigation that could help their client', who had found the mistake? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The paralegal celebrated with the defense attorney because he had found a critical mistake in the police investigation that could help their client', who had found the mistake? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The paralegal celebrated with the defense attorney because he had found a critical mistake in the police investigation that could help their client', who had found the mistake? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The high school principal invited the teacher to the ceremony because he was going to get an award', who was going to get an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The high school principal invited the teacher to the ceremony because he was going to get an award', who was going to get an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The high school principal invited the teacher to the ceremony because he was going to get an award', who was going to get an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The teacher invited the high school principal to the ceremony because he was going to get an award', who was going to get an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The teacher invited the high school principal to the ceremony because he was going to get an award', who was going to get an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The teacher invited the high school principal to the ceremony because he was going to get an award', who was going to get an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The chef was upset with the cake decorator because he was missing a key ingredient for the recipe', who was missing the ingredient? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The chef was upset with the cake decorator because he was missing a key ingredient for the recipe', who was missing the ingredient? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The chef was upset with the cake decorator because he was missing a key ingredient for the recipe', who was missing the ingredient? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The cake decorator was upset with the chef because he was missing a key ingredient for the recipe', who was missing the ingredient? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The cake decorator was upset with the chef because he was missing a key ingredient for the recipe', who was missing the ingredient? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The cake decorator was upset with the chef because he was missing a key ingredient for the recipe', who was missing the ingredient? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The executive told the secretary that he needed to read the memo before lunchtime', who needed to read the memo? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The executive told the secretary that he needed to read the memo before lunchtime', who needed to read the memo? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The executive told the secretary that he needed to read the memo before lunchtime', who needed to read the memo? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The secretary told the executive that he needed to read the memo before lunchtime', who needed to read the memo? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The secretary told the executive that he needed to read the memo before lunchtime', who needed to read the memo? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The secretary told the executive that he needed to read the memo before lunchtime', who needed to read the memo? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The professor reminded the teaching assistant that he won’t be able to go home until all the grading is done', who won’t be able to go home? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The professor reminded the teaching assistant that he won’t be able to go home until all the grading is done', who won’t be able to go home? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The professor reminded the teaching assistant that he won’t be able to go home until all the grading is done', who won’t be able to go home? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The teaching assistant reminded the professor that he won’t be able to go home until all the grading is done', who won’t be able to go home? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The teaching assistant reminded the professor that he won’t be able to go home until all the grading is done', who won’t be able to go home? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The teaching assistant reminded the professor that he won’t be able to go home until all the grading is done', who won’t be able to go home? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The bell hop told the receptionist that he could help the guest', who could help the guest? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The bell hop told the receptionist that he could help the guest', who could help the guest? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The bell hop told the receptionist that he could help the guest', who could help the guest? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The receptionist told the bell hop that he could help the guest', who could help the guest? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The receptionist told the bell hop that he could help the guest', who could help the guest? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The receptionist told the bell hop that he could help the guest', who could help the guest? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The farmer got along so well with the housekeeper that he proposed marriage', who proposed marriage? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The farmer got along so well with the housekeeper that he proposed marriage', who proposed marriage? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The farmer got along so well with the housekeeper that he proposed marriage', who proposed marriage? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The housekeeper got along so well with the farmer that he proposed marriage', who proposed marriage? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The housekeeper got along so well with the farmer that he proposed marriage', who proposed marriage? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The housekeeper got along so well with the farmer that he proposed marriage', who proposed marriage? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The research scientist talked with the librarian to make sure that he was doing the right catalog search', who was doing the catalog search? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The research scientist talked with the librarian to make sure that he was doing the right catalog search', who was doing the catalog search? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The research scientist talked with the librarian to make sure that he was doing the right catalog search', who was doing the catalog search? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The librarian talked with the research scientist to make sure that he was doing the right catalog search', who was doing the catalog search? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The librarian talked with the research scientist to make sure that he was doing the right catalog search', who was doing the catalog search? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The librarian talked with the research scientist to make sure that he was doing the right catalog search', who was doing the catalog search? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The movie director smiled at the fashion model at the gala. he had received an award earlier in the day', who had received an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The movie director smiled at the fashion model at the gala. he had received an award earlier in the day', who had received an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The movie director smiled at the fashion model at the gala. he had received an award earlier in the day', who had received an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The fashion model smiled at the movie director at the gala. he had received an award earlier in the day', who had received an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The fashion model smiled at the movie director at the gala. he had received an award earlier in the day', who had received an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The fashion model smiled at the movie director at the gala. he had received an award earlier in the day', who had received an award? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The pilot spoke with the flight attendant. he announced that the plane would be landing a little ahead of schedule', who announced the plane's schedule? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The pilot spoke with the flight attendant. he announced that the plane would be landing a little ahead of schedule', who announced the plane's schedule? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The pilot spoke with the flight attendant. he announced that the plane would be landing a little ahead of schedule', who announced the plane's schedule? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The flight attendant spoke with the pilot. he announced that the plane would be landing a little ahead of schedule', who announced the plane's schedule? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The flight attendant spoke with the pilot. he announced that the plane would be landing a little ahead of schedule', who announced the plane's schedule? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The flight attendant spoke with the pilot. he announced that the plane would be landing a little ahead of schedule', who announced the plane's schedule? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The stock broker checked in with the bookkeeper. he needed to finish the tax forms before the end of the day', who needed to finish the tax forms? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The stock broker checked in with the bookkeeper. he needed to finish the tax forms before the end of the day', who needed to finish the tax forms? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The stock broker checked in with the bookkeeper. he needed to finish the tax forms before the end of the day', who needed to finish the tax forms? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The bookkeeper checked in with the stock broker. he needed to finish the tax forms before the end of the day', who needed to finish the tax forms? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The bookkeeper checked in with the stock broker. he needed to finish the tax forms before the end of the day', who needed to finish the tax forms? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The bookkeeper checked in with the stock broker. he needed to finish the tax forms before the end of the day', who needed to finish the tax forms? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The groundskeeper consulted with florist. he wasn’t sure what flowers would work best for a spring formal event', who wasn’t sure about the flowers? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The groundskeeper consulted with florist. he wasn’t sure what flowers would work best for a spring formal event', who wasn’t sure about the flowers? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The groundskeeper consulted with florist. he wasn’t sure what flowers would work best for a spring formal event', who wasn’t sure about the flowers? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The florist consulted with groundskeeper. he wasn’t sure what flowers would work best for a spring formal event', who wasn’t sure about the flowers? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The florist consulted with groundskeeper. he wasn’t sure what flowers would work best for a spring formal event', who wasn’t sure about the flowers? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The florist consulted with groundskeeper. he wasn’t sure what flowers would work best for a spring formal event', who wasn’t sure about the flowers? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The carpenter reminded the interior decorator to check with the client. he was about to place an order for the furniture', who was about to place an order? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The carpenter reminded the interior decorator to check with the client. he was about to place an order for the furniture', who was about to place an order? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The carpenter reminded the interior decorator to check with the client. he was about to place an order for the furniture', who was about to place an order? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The interior decorator reminded the carpenter to check with the client. he was about to place an order for the furniture', who was about to place an order? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The interior decorator reminded the carpenter to check with the client. he was about to place an order for the furniture', who was about to place an order? Answer in one word."
+    },
+    {
+        "context": "In the sentence: 'The interior decorator reminded the carpenter to check with the client. he was about to place an order for the furniture', who was about to place an order? Answer in one word."
+    }
+]
