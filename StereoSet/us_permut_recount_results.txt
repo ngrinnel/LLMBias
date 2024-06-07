@@ -1,0 +1,21 @@
+Counts for per_gemini_intra_gender_res.json:
+  stereotype: 62
+  anti-stereotype: 36
+  unrelated: 1
+  unknown: 0
+LMS: 0.9899, SS: 0.6327, iCat: 0.7273
+----------------------------------------
+Counts for per_chatgpt_intra_gender_res.json:
+  stereotype: 52
+  anti-stereotype: 34
+  unrelated: 0
+  unknown: 14
+LMS: 0.8600, SS: 0.6047, iCat: 0.6800
+----------------------------------------
+Counts for per_claude_intra_gender_res.json:
+  stereotype: 59
+  anti-stereotype: 39
+  unrelated: 1
+  unknown: 1
+LMS: 0.9800, SS: 0.6020, iCat: 0.7800
+----------------------------------------
